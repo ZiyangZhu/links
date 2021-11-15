@@ -18,6 +18,7 @@
 - [Pak-Hin Lee](http://www.math.columbia.edu/~phlee/)
 - [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/)
 - [Armin Straub](http://arminstraub.com/)
+- [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/publications.html)
 
 #### Websites:
 - [ZLibrary](https://singlelogin.org/)
