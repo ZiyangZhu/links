@@ -18,6 +18,7 @@
 - [Pak-Hin Lee](http://www.math.columbia.edu/~phlee/)
 - [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/)
 - [Armin Straub](http://arminstraub.com/)
+
 #### Websites:
 - [ZLibrary](https://singlelogin.org/)
 - [MathOverflow](https://mathoverflow.net/)
@@ -73,6 +74,7 @@
 - [PKU](https://portal.pku.edu.cn/)
 - [IllustratingMath](https://im.icerm.brown.edu/)
 - [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks)
+
 #### More:
 - [viXra](http://vixra.org/)
 - [Genealogy](https://www.genealogy.math.ndsu.nodak.edu/index.php)
