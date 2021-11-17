@@ -75,6 +75,7 @@
 - [PKU](https://portal.pku.edu.cn/)
 - [IllustratingMath](https://im.icerm.brown.edu/)
 - [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks)
+- [HardArithmetic](https://ayoucis.wordpress.com/)
 
 #### More:
 - [viXra](http://vixra.org/)
