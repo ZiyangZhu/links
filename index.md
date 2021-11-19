@@ -3,7 +3,7 @@
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ### [Works](https://ziyangzhu.github.io/Works/)
 ## Useful links
-#### Institutes：
+#### Institutes:
 - [CNU-Math](https://math.cnu.edu.cn/)
 - [CNU-AMS](https://ams.cnu.edu.cn/)
 - [PKU-BICMR](http://bicmr.pku.edu.cn/)
