@@ -2,7 +2,7 @@
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ### [Works](https://ziyangzhu.github.io/Works/)
-## Useful links
+## Useful Links
 #### Institutes:
 - [CNU-Math](https://math.cnu.edu.cn/)
 - [CNU-AMS](https://ams.cnu.edu.cn/)
