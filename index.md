@@ -44,6 +44,7 @@
 - [GeoGebra](https://www.geogebra.org/)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [LaTeXdiagrams](http://math.uchicago.edu/~weinan/programs/tex_diagrams/diagrams.html)
+- [Detexify](http://detexify.kirelabs.org/classify.html)
 - [MathIM](https://mathim.com/)
 - [SageMath](http://www.sagemath.org/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
