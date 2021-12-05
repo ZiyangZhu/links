@@ -63,6 +63,7 @@
 - [TPChina](https://tpchina.github.io/)
 - [AFP](https://www.isa-afp.org/index.html)
 - [Kerodon](https://kerodon.net/)
+- [MathCurve](https://mathcurve.com/)
 - [Banana](https://www.bananaspace.org/wiki/%E9%A6%96%E9%A1%B5)
 - [WhatIs](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=whatis&article_type=gallery&gallery_type=whatis)
 - [Persiflage](https://www.galoisrepresentations.com/)
