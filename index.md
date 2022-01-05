@@ -78,7 +78,7 @@
 - [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks)
 - [HardArithmetic](https://ayoucis.wordpress.com/)
 
-#### Latex:
+#### LaTeX:
 - [CTEX](http://www.ctex.org/HomePage)
 - [LaTeXdiagrams](http://math.uchicago.edu/~weinan/programs/tex_diagrams/diagrams.html)
 - [Overleaf](https://www.overleaf.com/)
@@ -93,4 +93,4 @@
 - [Genealogy](https://www.genealogy.math.ndsu.nodak.edu/index.php)
 - [Mathgen](http://thatsmathematics.com/mathgen/)
 - [XKCD](https://xkcd.com/)
-- [ASOUL](https://www.asoulworld.com/)
+- [A-SOUL](https://www.asoulworld.com/)
