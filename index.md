@@ -95,3 +95,4 @@
 - [XKCD](https://xkcd.com/)
 - [Bella](https://space.bilibili.com/672353429)
 - [Diana](https://space.bilibili.com/672328094)
+- [ASOUL](https://www.asoulworld.com/)
