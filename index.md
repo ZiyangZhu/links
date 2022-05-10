@@ -93,4 +93,3 @@
 - [Genealogy](https://www.genealogy.math.ndsu.nodak.edu/index.php)
 - [Mathgen](http://thatsmathematics.com/mathgen/)
 - [XKCD](https://xkcd.com/)
-- [A-SOUL](https://www.asoulworld.com/)
