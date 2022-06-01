@@ -32,6 +32,7 @@
 - [ZLibrary](https://singlelogin.org/)
 - [Libgen](http://libgen.li/)
 - [Sci-Hub](https://lovescihub.wordpress.com/)
+- [NumberTheoryWeb](http://www.numbertheory.org/ntw/web.html)
 - [MathOverflow](https://mathoverflow.net/)
 - [Stackexchange](https://math.stackexchange.com/)
 - [StacksProject](https://stacks.math.columbia.edu/)
@@ -79,7 +80,6 @@
 - [IllustratingMath](https://im.icerm.brown.edu/)
 - [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks)
 - [HardArithmetic](https://ayoucis.wordpress.com/)
-- [NumberTheoryWeb](http://www.numbertheory.org/ntw/web.html)
 
 #### LaTeX:
 - [CTEX](http://www.ctex.org/HomePage)
