@@ -10,6 +10,7 @@
 - [PKU-Portal](https://portal.pku.edu.cn/)
 
 #### Homepages:
+- [Number Theorists](http://www.numbertheory.org/ntw/number_theorists.html)
 - [Yongqi Liang](http://staff.ustc.edu.cn/~yqliang/)
 - [Xiaoxiang Zhou](http://home.ustc.edu.cn/~xx352229)
 - [Rui Xiong](http://www.cnblogs.com/XiongRuiMath/)
@@ -25,6 +26,7 @@
 - [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/)
 - [Armin Straub](http://arminstraub.com/)
 - [Xinyi Yuan](https://bicmr.pku.edu.cn/~yxy/publications.html)
+- [Eyal Goren](https://www.math.mcgill.ca/goren/)
 
 #### Websites:
 - [ZLibrary](https://singlelogin.org/)
@@ -77,6 +79,7 @@
 - [IllustratingMath](https://im.icerm.brown.edu/)
 - [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks)
 - [HardArithmetic](https://ayoucis.wordpress.com/)
+- [NumberTheoryWeb](http://www.numbertheory.org/ntw/web.html)
 
 #### LaTeX:
 - [CTEX](http://www.ctex.org/HomePage)
