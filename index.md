@@ -59,7 +59,7 @@
 - [WolframMathWorld](https://mathworld.wolfram.com/)
 - [WStein](https://wstein.org/129/ant/html/ant.html)
 - [zbMATH](https://zbmath.org/)
-- [ZLibrary](https://singlelogin.org/)
+- [ZLibrary](https://zh.singlelogin.me/)
 
 #### LaTeX:
 - [BeamerTheme](https://deic-web.uab.cat/~iblanes/beamer_gallery/)
