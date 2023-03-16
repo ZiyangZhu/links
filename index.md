@@ -73,7 +73,6 @@
 - [Quiver](https://q.uiver.app/)
 
 #### More:
-- [ChatGPTWeb](https://chat.elysia.club/)
 - [Genealogy](https://www.genealogy.math.ndsu.nodak.edu/index.php)
 - [Mathgen](http://thatsmathematics.com/mathgen/)
 - [viXra](http://vixra.org/)
