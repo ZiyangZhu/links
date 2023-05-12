@@ -63,7 +63,6 @@
 - [BeamerTheme](https://deic-web.uab.cat/~iblanes/beamer_gallery/)
 - [CTEX](http://www.ctex.org/HomePage)
 - [Detexify](http://detexify.kirelabs.org/classify.html)
-- [LaTeXdiagrams](http://math.uchicago.edu/~weinan/programs/tex_diagrams/diagrams.html)
 - [Mathcha](https://www.mathcha.io/editor)
 - [MathIM](https://mathim.com/)
 - [Overleaf](https://www.overleaf.com/)
