@@ -1,8 +1,5 @@
-### [Home](https://ziyangzhu.github.io/Home/)
-### [Teaching](https://ziyangzhu.github.io/Teaching/)
-### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
-### [Works](https://ziyangzhu.github.io/Works/)
-## Useful Links
+### [Back](https://ziyangzhu.github.io/home/)
+
 #### Institutes:
 - [CNU-AMS](https://ams.cnu.edu.cn/)
 - [CNU-Math](https://math.cnu.edu.cn/)
