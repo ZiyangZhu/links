@@ -30,6 +30,7 @@
 - [Lean](https://leanprover-community.github.io/)
 - [Libgen](http://libgen.li/)
 - [LMFDB](http://www.lmfdb.org/)
+- [Macaulay2](https://macaulay2.com/)
 - [MathCurve](https://mathcurve.com/)
 - [MathEncyclopedia](https://encyclopediaofmath.org/wiki/Main_Page)
 - [MathOverflow](https://mathoverflow.net/)
