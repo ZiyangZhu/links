@@ -42,6 +42,7 @@
 - [OALib](https://www.oalib.com/)
 - [OEIS](http://oeis.org/)
 - [onAcademic](https://www.onacademic.com/)
+- [OpenCourseWare](https://ocw.mit.edu/)
 - [Persiflage](https://www.galoisrepresentations.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [RhapsodyInNumbers](http://yozh.org/)
