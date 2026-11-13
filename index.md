@@ -38,6 +38,7 @@
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/index.html)
 - [MathStackExchange](https://math.stackexchange.com/)
 - [NeverendingBooks](http://www.neverendingbooks.org/)
+- [NIST-DLMF](https://dlmf.nist.gov/)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [NumberTheorists](http://www.numbertheory.org/ntw/number_theorists.html)
 - [NumberTheoryWeb](http://www.numbertheory.org/ntw/web.html)
